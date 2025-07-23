@@ -1,2 +1,2 @@
 # Sample
-Arttifai Tech's first sample Repository
+Thirupathi E first sample Repository
